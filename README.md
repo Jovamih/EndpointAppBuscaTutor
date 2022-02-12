@@ -1,4 +1,4 @@
-# Endpoints de App Busca tu Tutor
+# Endpoints de la App Busca tu Tutor
 El código de los endpoints de la App Busca tu tutor
 
 * Para ver las ejecuciones sobre pruebas de **request**  y **response**
